@@ -134,3 +134,10 @@ int main(int argc, char const *argv[])
 
     return 0;
 }
+
+/*
+    Future Updates:
+    git add .
+    git commit -m "Updated digital clock"
+    git push
+*/
